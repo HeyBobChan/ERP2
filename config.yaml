@@ -1,0 +1,8 @@
+database:
+  host: ${PRIORITY_DB_HOST}
+  name: ${PRIORITY_DB_NAME}
+  username: ${PRIORITY_DB_USERNAME}
+  password: ${PRIORITY_DB_PASSWORD}
+
+groq:
+  api_key: ${GROQ_API_KEY}
